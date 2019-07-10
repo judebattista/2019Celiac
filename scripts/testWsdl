@@ -1,0 +1,1051 @@
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReferenceByIdRequest' contains an invalid part ('id'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReferenceByIdResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReferenceByPubmedIdRequest' contains an invalid part ('id'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReferenceByPubmedIdResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getLigandStructureIdByCompoundNameRequest' contains an invalid part ('id'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getLigandStructureIdByCompoundNameResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReferenceRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReferenceResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromReferenceRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromReferenceResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromReferenceRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromReferenceResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSequenceRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSequenceResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSequenceRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSequenceResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSequenceRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSequenceResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getKmValueRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getKmValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromKmValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromKmValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromKmValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromKmValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getIc50ValueRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getIc50ValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromIc50ValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromIc50ValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromIc50ValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromIc50ValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getKcatKmValueRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getKcatKmValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromKcatKmValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromKcatKmValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromKcatKmValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromKcatKmValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPhStabilityRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPhStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPhStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPhStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPhStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPhStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOxidationStabilityRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOxidationStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOxidationStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOxidationStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOxidationStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOxidationStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getNaturalSubstratesProductsRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getNaturalSubstratesProductsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromNaturalSubstratesProductsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromNaturalSubstratesProductsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromNaturalSubstratesProductsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromNaturalSubstratesProductsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEngineeringRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEngineeringResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromEngineeringRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromEngineeringResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromEngineeringRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromEngineeringResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getNaturalProductRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getNaturalProductResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromNaturalProductRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromNaturalProductResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromNaturalProductRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromNaturalProductResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getMetalsIonsRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getMetalsIonsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromMetalsIonsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromMetalsIonsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromMetalsIonsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromMetalsIonsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getActivatingCompoundRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getActivatingCompoundResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromActivatingCompoundRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromActivatingCompoundResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromActivatingCompoundRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromActivatingCompoundResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getInhibitorsRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getInhibitorsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromInhibitorsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromInhibitorsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromInhibitorsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromInhibitorsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getCofactorRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getCofactorResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromCofactorRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromCofactorResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromCofactorRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromCofactorResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getGeneralStabilityRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getGeneralStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromGeneralStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromGeneralStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromGeneralStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromGeneralStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getNaturalSubstrateRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getNaturalSubstrateResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromNaturalSubstrateRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromNaturalSubstrateResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromNaturalSubstrateRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromNaturalSubstrateResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getMolecularWeightRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getMolecularWeightResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromMolecularWeightRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromMolecularWeightResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromMolecularWeightRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromMolecularWeightResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getCrystallizationRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getCrystallizationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromCrystallizationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromCrystallizationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromCrystallizationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromCrystallizationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSubstratesProductsRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSubstratesProductsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSubstratesProductsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSubstratesProductsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSubstratesProductsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSubstratesProductsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReactionTypeRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReactionTypeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromReactionTypeRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromReactionTypeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromReactionTypeRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromReactionTypeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismSynonymsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOrganismSynonymsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOrganismSynonymsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOrganismSynonymsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOrganismSynonymsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEnzymeNamesRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEnzymeNamesResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromEnzymeNamesRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromEnzymeNamesResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromEnzymeNamesRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromEnzymeNamesResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganicSolventStabilityRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganicSolventStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOrganicSolventStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOrganicSolventStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOrganicSolventStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOrganicSolventStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getApplicationRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getApplicationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromApplicationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromApplicationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromApplicationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromApplicationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSynonymsRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSynonymsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSynonymsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSynonymsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSynonymsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSynonymsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTemperatureOptimumRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTemperatureOptimumResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTemperatureOptimumRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTemperatureOptimumResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTemperatureOptimumRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTemperatureOptimumResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTemperatureStabilityRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTemperatureStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTemperatureStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTemperatureStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTemperatureStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTemperatureStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPiValueRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPiValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPiValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPiValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPiValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPiValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTemperatureRangeRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTemperatureRangeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTemperatureRangeRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTemperatureRangeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTemperatureRangeRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTemperatureRangeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getRecommendedNameRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getRecommendedNameResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromRecommendedNameRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromRecommendedNameResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromRecommendedNameRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromRecommendedNameResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getProductRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getProductResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromProductRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromProductResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromProductRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromProductResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getCasRegistryNumberRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getCasRegistryNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromCasRegistryNumberRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromCasRegistryNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromCasRegistryNumberRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromCasRegistryNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getLocalizationRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getLocalizationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromLocalizationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromLocalizationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromLocalizationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromLocalizationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPosttranslationalModificationRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPosttranslationalModificationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPosttranslationalModificationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPosttranslationalModificationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPosttranslationalModificationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPosttranslationalModificationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSystematicNameRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSystematicNameResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSystematicNameRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSystematicNameResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSystematicNameRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSystematicNameResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getClonedRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getClonedResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromClonedRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromClonedResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromClonedRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromClonedResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSpecificActivityRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSpecificActivityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSpecificActivityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSpecificActivityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSpecificActivityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSpecificActivityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSubunitsRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSubunitsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSubunitsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSubunitsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSubunitsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSubunitsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getLigandsRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getLigandsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromLigandsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromLigandsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromLigandsRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromLigandsResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTurnoverNumberRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getTurnoverNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTurnoverNumberRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromTurnoverNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTurnoverNumberRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromTurnoverNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumberRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromEcNumberRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromEcNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromEcNumberRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromEcNumberResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReactionRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getReactionResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromReactionRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromReactionResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromReactionRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromReactionResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSourceTissueRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSourceTissueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSourceTissueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSourceTissueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSourceTissueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSourceTissueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSubstrateRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getSubstrateResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSubstrateRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromSubstrateResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSubstrateRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromSubstrateResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPhRangeRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPhRangeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPhRangeRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPhRangeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPhRangeRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPhRangeResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getStorageStabilityRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getStorageStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromStorageStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromStorageStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromStorageStabilityRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromStorageStabilityResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPhOptimumRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPhOptimumResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPhOptimumRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPhOptimumResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPhOptimumRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPhOptimumResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getDiseaseRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getDiseaseResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromDiseaseRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromDiseaseResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromDiseaseRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromDiseaseResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPurificationRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPurificationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPurificationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPurificationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPurificationRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPurificationResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getRenaturedRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getRenaturedResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromRenaturedRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromRenaturedResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromRenaturedRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromRenaturedResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getKiValueRequest' contains an invalid part ('ligandStructureId'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getKiValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromKiValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromKiValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromKiValueRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromKiValueResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPathwayRequest' contains an invalid part ('ecNumber'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPathwayResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPathwayRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPathwayResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPathwayRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPathwayResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOrganismRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromOrganismResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOrganismRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromOrganismResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPdbRequest' contains an invalid part ('organism'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getPdbResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPdbRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getEcNumbersFromPdbResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPdbRequest' contains an invalid part ('login'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/wsdl.py:338: UserWarning: The wsdl:message for '{ws.brenda}getOrganismsFromPdbResponse' contains an invalid part ('return'): invalid xsd type or elements
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getReferenceById' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getReferenceByPubmedId' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getLigandStructureIdByCompoundName' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromReference' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromReference' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getReference' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSequence' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSequence' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSequence' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromKmValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromKmValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getKmValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromIc50Value' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromIc50Value' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getIc50Value' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromKcatKmValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromKcatKmValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getKcatKmValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPhStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPhStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPhStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromOxidationStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromOxidationStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOxidationStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromNaturalSubstratesProducts' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromNaturalSubstratesProducts' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getNaturalSubstratesProducts' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromEngineering' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromEngineering' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEngineering' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromNaturalProduct' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromNaturalProduct' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getNaturalProduct' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromMetalsIons' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromMetalsIons' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getMetalsIons' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromActivatingCompound' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromActivatingCompound' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getActivatingCompound' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromInhibitors' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromInhibitors' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getInhibitors' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromCofactor' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromCofactor' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getCofactor' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromGeneralStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromGeneralStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getGeneralStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromNaturalSubstrate' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromNaturalSubstrate' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getNaturalSubstrate' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromMolecularWeight' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromMolecularWeight' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getMolecularWeight' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromCrystallization' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromCrystallization' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getCrystallization' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSubstratesProducts' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSubstratesProducts' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSubstratesProducts' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromReactionType' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromReactionType' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getReactionType' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromOrganismSynonyms' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromOrganismSynonyms' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismSynonyms' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromEnzymeNames' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromEnzymeNames' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEnzymeNames' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromOrganicSolventStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromOrganicSolventStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganicSolventStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromApplication' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromApplication' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getApplication' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSynonyms' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSynonyms' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSynonyms' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromTemperatureOptimum' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromTemperatureOptimum' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getTemperatureOptimum' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromTemperatureStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromTemperatureStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getTemperatureStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPiValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPiValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPiValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromTemperatureRange' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromTemperatureRange' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getTemperatureRange' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromRecommendedName' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromRecommendedName' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getRecommendedName' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromProduct' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromProduct' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getProduct' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromCasRegistryNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromCasRegistryNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getCasRegistryNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromLocalization' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromLocalization' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getLocalization' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPosttranslationalModification' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPosttranslationalModification' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPosttranslationalModification' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSystematicName' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSystematicName' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSystematicName' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromCloned' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromCloned' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getCloned' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSpecificActivity' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSpecificActivity' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSpecificActivity' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSubunits' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSubunits' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSubunits' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromLigands' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromLigands' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getLigands' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromTurnoverNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromTurnoverNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getTurnoverNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromEcNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromEcNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumber' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromReaction' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromReaction' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getReaction' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSourceTissue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSourceTissue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSourceTissue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromSubstrate' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromSubstrate' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getSubstrate' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPhRange' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPhRange' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPhRange' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromStorageStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromStorageStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getStorageStability' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPhOptimum' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPhOptimum' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPhOptimum' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromDisease' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromDisease' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getDisease' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPurification' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPurification' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPurification' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromRenatured' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromRenatured' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getRenatured' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromKiValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromKiValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getKiValue' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPathway' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPathway' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPathway' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromOrganism' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromOrganism' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganism' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getEcNumbersFromPdb' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getOrganismsFromPdb' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+/home/jbattista/Source/Celiac/scripts/soap/lib/python3.6/site-packages/zeep/wsdl/definitions.py:137: UserWarning: The wsdl:operation 'getPdb' was not found in the wsdl:portType '{ws.brenda}brendaPortType'
+  warnings.warn(str(exc))
+
+Prefixes:
+     xsd: http://www.w3.org/2001/XMLSchema
+     ns0: ws.brenda
+
+Global elements:
+     
+
+Global types:
+     xsd:anyType
+     xsd:ENTITIES
+     xsd:ENTITY
+     xsd:ID
+     xsd:IDREF
+     xsd:IDREFS
+     xsd:NCName
+     xsd:NMTOKEN
+     xsd:NMTOKENS
+     xsd:NOTATION
+     xsd:Name
+     xsd:QName
+     xsd:anySimpleType
+     xsd:anyURI
+     xsd:base64Binary
+     xsd:boolean
+     xsd:byte
+     xsd:date
+     xsd:dateTime
+     xsd:decimal
+     xsd:double
+     xsd:duration
+     xsd:float
+     xsd:gDay
+     xsd:gMonth
+     xsd:gMonthDay
+     xsd:gYear
+     xsd:gYearMonth
+     xsd:hexBinary
+     xsd:int
+     xsd:integer
+     xsd:language
+     xsd:long
+     xsd:negativeInteger
+     xsd:nonNegativeInteger
+     xsd:nonPositiveInteger
+     xsd:normalizedString
+     xsd:positiveInteger
+     xsd:short
+     xsd:string
+     xsd:time
+     xsd:token
+     xsd:unsignedByte
+     xsd:unsignedInt
+     xsd:unsignedLong
+     xsd:unsignedShort
+
+Bindings:
+     Soap11Binding: {ws.brenda}brendaBinding
+
+Service: brenda_webservice
+     Port: brendaPort (Soap11Binding: {ws.brenda}brendaBinding)
+         Operations:
+
