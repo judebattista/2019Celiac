@@ -68,6 +68,7 @@ def run():
             lines.append(line)
             print('lines has {0} items'.format(len(lines)))
 
+        # Print the last set of lines
         outfileDict = printLinesToFile(lines, outfileDict)
         #print('Delimiters found: {0}, first items found: {1}'.format(delimCount, firstItemCount))
 
