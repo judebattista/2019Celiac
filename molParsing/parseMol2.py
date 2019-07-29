@@ -14,39 +14,61 @@
 
 # Feel free to comment out the print statements, they are for debugging and progress notifications
 
-import re
-infileName = 'lots.mol2'
+infileName = 'fda.mol2'
 delimiter = '@<TRIPOS>MOLECULE'
 firstItem = True
 outDirName = './parsedMolFiles/'
+outfileFormat = '.mol2'
 
-with open('lots.mol2', 'r') as infile:
+# Create the output file
+# Note that it assumes the second line of the file is the molecule name,
+#   which we use to name the output file
+# We index the outfileName to account for multiple conformations of the same chemical structure
+def printLinesToFile(lines, fileCountDict):
+    outfileName = outDirName + lines[1]
+    if outfileName in fileCountDict:
+        fileCountDict[outfileName] += 1
+    else:
+        fileCountDict[outfileName] = 1
+    outfileName = outfileName + '-' + str(fileCountDict[outfileName]) + outfileFormat
+    with open (outfileName, 'w') as outfile:
+        for item in lines:
+            outfile.write(item + '\n')
+    return fileCountDict
+
+def run():
+    outfileDict = {}
     lines = []
     outfileName = ''
-    # read contents line by line
-    for line in infile:
-        line = line.strip()
-        # check to see if we've found the name
-        if line[0:4] == 'ZINC':
-            outfileName = dirName + line + '.mol2'
-        # when we hit delimiter write list to file based on id
-        if line == delimiter:
-            print('Found the delimiter')
-            # we need this check so we don't write a blank first file
-            # not elegant, but this is a one time run
-            # If we ever use this for larger scale projects, fix this
-            if not firstItem:
-                print('Writing lines to file {0}'.format(outfileName))
-                # write lines to file
-                with open (outfileName, 'w') as outfile:
-                    for item in lines:
-                        outfile.write(item + '\n')
-                #reset the collection of lines for the next file
-                lines = []
-            else:
-                firstItem = False
-                print('firstItem was True, now switched to {0}'.format(firstItem))
-        lines.append(line)
-        print('lines has {0} items'.format(len(lines)))
+    molName = ''
+    firstItem = True
+    #delimCount = 0
+    #firstItemCount = 0
+    with open(infileName, 'r') as infile:
+        # read contents line by line
+        for line in infile:
+            line = line.strip()
+            # when we hit delimiter write list to file based on id
+            if line == delimiter:
+                print('Found the delimiter')
+                # we need this check so we don't write a blank first file
+                # not elegant, but this is a one time run
+                # If we ever use this for larger scale projects, fix this
+                if not firstItem:
+                    print('Writing lines to file {0}'.format(outfileName))
+                    # write lines to file
+                    outfileDict = printLinesToFile(lines, outfileDict)
+                    #delimCount += 1
+                    #reset the collection of lines for the next file
+                    lines = []
+                else:
+                    firstItem = False
+                    #firstItemCount += 1
+                    print('firstItem was True, now switched to {0}'.format(firstItem))
+            lines.append(line)
+            print('lines has {0} items'.format(len(lines)))
 
+        outfileDict = printLinesToFile(lines, outfileDict)
+        #print('Delimiters found: {0}, first items found: {1}'.format(delimCount, firstItemCount))
 
+run()
